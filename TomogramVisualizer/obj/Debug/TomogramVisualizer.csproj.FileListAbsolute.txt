@@ -1,0 +1,16 @@
+C:\Users\Alyona\Documents\Visual Studio 2017\Projects\CG\TomogramVisualizer\TomogramVisualizer\bin\Debug\TomogramVisualizer.exe.config
+C:\Users\Alyona\Documents\Visual Studio 2017\Projects\CG\TomogramVisualizer\TomogramVisualizer\bin\Debug\TomogramVisualizer.exe
+C:\Users\Alyona\Documents\Visual Studio 2017\Projects\CG\TomogramVisualizer\TomogramVisualizer\bin\Debug\TomogramVisualizer.pdb
+C:\Users\Alyona\Documents\Visual Studio 2017\Projects\CG\TomogramVisualizer\TomogramVisualizer\bin\Debug\OpenTK.dll
+C:\Users\Alyona\Documents\Visual Studio 2017\Projects\CG\TomogramVisualizer\TomogramVisualizer\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Alyona\Documents\Visual Studio 2017\Projects\CG\TomogramVisualizer\TomogramVisualizer\bin\Debug\OpenTK.pdb
+C:\Users\Alyona\Documents\Visual Studio 2017\Projects\CG\TomogramVisualizer\TomogramVisualizer\bin\Debug\OpenTK.xml
+C:\Users\Alyona\Documents\Visual Studio 2017\Projects\CG\TomogramVisualizer\TomogramVisualizer\bin\Debug\OpenTK.dll.config
+C:\Users\Alyona\Documents\Visual Studio 2017\Projects\CG\TomogramVisualizer\TomogramVisualizer\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Alyona\Documents\Visual Studio 2017\Projects\CG\TomogramVisualizer\TomogramVisualizer\obj\Debug\TomogramVisualizer.csprojResolveAssemblyReference.cache
+C:\Users\Alyona\Documents\Visual Studio 2017\Projects\CG\TomogramVisualizer\TomogramVisualizer\obj\Debug\TomogramVisualizer.Form1.resources
+C:\Users\Alyona\Documents\Visual Studio 2017\Projects\CG\TomogramVisualizer\TomogramVisualizer\obj\Debug\TomogramVisualizer.Properties.Resources.resources
+C:\Users\Alyona\Documents\Visual Studio 2017\Projects\CG\TomogramVisualizer\TomogramVisualizer\obj\Debug\TomogramVisualizer.csproj.GenerateResource.Cache
+C:\Users\Alyona\Documents\Visual Studio 2017\Projects\CG\TomogramVisualizer\TomogramVisualizer\obj\Debug\TomogramVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\Alyona\Documents\Visual Studio 2017\Projects\CG\TomogramVisualizer\TomogramVisualizer\obj\Debug\TomogramVisualizer.exe
+C:\Users\Alyona\Documents\Visual Studio 2017\Projects\CG\TomogramVisualizer\TomogramVisualizer\obj\Debug\TomogramVisualizer.pdb
